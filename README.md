@@ -4,7 +4,7 @@ Flutter Sample Repos.
 * Flutter九宫格 [nine_grid_view](https://github.com/flutterchina/nine_grid_view).
 * Flutter汉字转拼音 [lpinyin](https://github.com/flutterchina/lpinyin).
 
-## MossX
+### MossX
 * 仿百度地图.
 * 仿高德地图.
 * 仿滴滴.
@@ -19,6 +19,10 @@ Flutter Sample Repos.
 
 ### Apk
 
-Moss ：[moss.apk](https://github.com/Sky24n/Doc/blob/master/apks/moss.apk) & [网盘: yj79](https://pan.baidu.com/s/1LdGKcHlFAMsdKWk7U1jN_A)
+Moss&nbsp;&nbsp; ：v0.0.1 [moss.apk](https://github.com/Sky24n/Doc/blob/master/apks/moss.apk) or [网盘: yj79](https://pan.baidu.com/s/1LdGKcHlFAMsdKWk7U1jN_A)  
 
-MossX ：[网盘: m5e2](https://pan.baidu.com/s/1LdGKcHlFAMsdKWk7U1jN_A)
+MossX ：v0.1.0 [网盘: m5e2](https://pan.baidu.com/s/1LdGKcHlFAMsdKWk7U1jN_A)
+
+### 常见问题
+#### 1.在oppo r15手机上偶现后台定位？
+    未知原因，如果您介意这个，请卸载它！
