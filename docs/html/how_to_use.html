@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1.0, maximum-scale=1, user-scalable=0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>How to use</title>
+</head>
+<body style="text-align:left; font-family:Arial,Helvetica,sans-serif; padding-left:16px">
+<div>
+	<h1><a href="https://github.com/Sky24n/Moss" style="color:black">Moss</a></h1>
+    <h2>How to log in on the web ?</h2> 
+    <h3>1.Log in by Access Token.</h3>
+	<p>You can get access token through Moss(v1.0.2) Android App.</p>
+    <h3>2.Log in by Auth Success Url. <font style="color:red">(Unavailable)</font></h3>
+    <p>It can't log in at the moment, Because the network request has a problem in the Web. If you have a solution, welcome to contact the author.</p>
+	<p><font style="color:red">XMLHttpRequest error.</font></p>
+	<p><pre><code>
+	var respons = await http.post(
+        "https://github.com/login/oauth/access_token",
+        body: {
+          'client_id': 'xxx',
+          'client_secret': 'xxx',
+          'auth_code': 'xxx',
+        },
+      );
+	</code></pre></p>
+	
+</div>
+</body>
+</html>
