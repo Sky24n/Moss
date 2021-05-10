@@ -11,7 +11,7 @@ A GitHub client app developed with Flutter, which supports Android iOS Web.
 * Flutter九宫格 [nine_grid_view](https://github.com/flutterchina/nine_grid_view).
 * Flutter汉字转拼音 [lpinyin](https://github.com/flutterchina/lpinyin).
 
-### [Moss Web](https://sky24n.github.io/Sky24n/moss/web/index.html)
+### [Moss Web](https://sky24n.github.io/Sky24n/moss)
 特别说明!  
 1、Moss Web放置在[Gitee Pages](https://gitee.com/help/articles/4136)上运行。  
 2、使用手机端访问体验更好，在PC浏览器端打开部分内容无法加载！  
@@ -41,7 +41,7 @@ A GitHub client app developed with Flutter, which supports Android iOS Web.
 
 ### Apps
 Android ：v1.0.2 [Apk](https://github.com/Sky24n/Moss/releases) or [网盘: m5e2](https://pan.baidu.com/s/1rIQBs6rHvcz9WgkgEmO1NQ)  
-Web&nbsp;&nbsp; ：[https://sky24n.github.io/Sky24n/moss/web/index.html](https://sky24n.github.io/Sky24n/moss/web/index.html)
+Web&nbsp;&nbsp; ：[https://sky24n.github.io/Sky24n/moss](https://sky24n.github.io/Sky24n/moss)
 
 ### Thanks
 1. [Gank api](https://gank.io/)
