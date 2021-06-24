@@ -41,7 +41,7 @@ A GitHub client app developed with Flutter, which supports Android iOS Web.
 
 ### Apps
 Android ：v1.0.2 [Apk](https://github.com/Sky24n/Moss/releases) or [网盘: m5e2](https://pan.baidu.com/s/1rIQBs6rHvcz9WgkgEmO1NQ)  
-Web&nbsp;&nbsp; ：[https://sky24n.github.io/Sky24n/moss](https://sky24n.github.io/Sky24n/moss)
+Web &nbsp;&nbsp;&nbsp;&nbsp; ：[GitHub Pages](https://sky24n.github.io/Moss/web/index.html) or [Gitee Pages](https://sky24n.gitee.io/moss/web/index.html)
 
 ### Thanks
 1. [Gank api](https://gank.io/)

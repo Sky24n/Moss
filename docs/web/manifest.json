@@ -1,11 +1,11 @@
 {
-    "name": "flutterapp",
-    "short_name": "flutterapp",
+    "name": "Moss",
+    "short_name": "Moss",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
     "theme_color": "#0175C2",
-    "description": "A new Flutter application.",
+    "description": "Demonstrates how to use the kzcity_picker plugin.",
     "orientation": "portrait-primary",
     "prefer_related_applications": false,
     "icons": [
